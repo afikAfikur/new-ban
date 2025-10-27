@@ -85,3 +85,20 @@ margin-right: 160px;
     gap: 24px;
   
 }
+.second{
+    width: 1280px;
+    height: 324px;
+    margin: 80px auto;
+}
+.yaping{
+    display: flex;
+    gap: 34px;
+}
+.card{
+    width: 302px;
+    height: 244px;
+    padding: 24px;
+    background-color: aliceblue;
+    border-radius: 16px;
+    border: 1px solid rgba(14, 14, 14, 0.15);
+}
