@@ -102,3 +102,82 @@ margin-right: 160px;
     border-radius: 16px;
     border: 1px solid rgba(14, 14, 14, 0.15);
 }
+.lit{
+    height: 64px;
+    width: 64px;
+}
+.lern{
+    width: 122px;
+    height: 41px;
+    color: white;
+    border-radius: 8px;
+    font-size: 16px;
+    font-weight: bold;
+    
+}
+.third{
+    width: 1280px;
+    height: 765px;
+    margin: 80px auto;
+    
+}
+.vis{
+    margin-bottom: 24px;
+    
+}
+.vision{
+    margin-top: 80px;
+}
+.intem{
+    width: 410px;
+    height: 325px;
+    border-radius: 16px;
+    padding: 32px;
+    display: flex;
+    flex-direction: column;
+    gap:auto;
+}
+.tem{
+margin-top:32px;
+display: flex;
+gap: 24px;
+margin-bottom: 32px;
+}
+.digi{
+    background-color: rgba(84, 144, 245, 0.2);
+    border: 0px solid #5490F5;
+}
+.gen{
+    background-color: rgba(198, 228, 214, 1);
+    border: 0px solid #09A15C;
+}
+.mor{
+    background-color: rgba(247, 235, 207, 1);
+    border: 0px solid #FFC239;
+}
+.bl_but{
+    background-color: rgba(84, 144, 245, 1);
+    
+     border: none;
+
+}
+.gr_but{
+    background-color: rgba(9, 161, 92, 1);
+     border: none;
+
+}
+.yl_but{
+    background-color: rgba(255, 194, 57, 1);
+    border: none;
+}
+.yunus{
+    background-color: #FFFFFF;
+    height:auto;
+    border: 1px solid rgba(14, 14, 14, 0.15);
+    padding: 48px 24px;
+    border-radius: 16px;
+}
+.dr {
+    margin-top: 12px;
+    margin-bottom: 4px;
+}
