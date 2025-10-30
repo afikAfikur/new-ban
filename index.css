@@ -29,11 +29,10 @@
   font-style: normal;
 }
 .ban-2 {
-margin-top: 31px;
+margin: 31px auto;
 display: flex;
 justify-content: space-around;
-margin-left: 160px;
-margin-right: 160px;
+
 
 }
 .sign_in{
@@ -336,11 +335,12 @@ tbody td:first-child {
 .donate{
     width: 1280px;
     height: auto;
-    margin: 250px auto;
+    margin: 200px auto;
     text-align: center;
     display: flex;
     flex-direction: column;
     gap: 0px;
+    margin-bottom: 80px;
 }
 .taka{
     width: 240px;
@@ -381,4 +381,67 @@ tbody td:first-child {
     justify-content: center;
     text-align: center;
     margin: 5px auto;
+}
+.sub{
+    width: 1280px;
+    height: auto;
+    padding:80px 100px;
+    margin:0px auto ;
+    background-color: rgba(198, 228, 214, 1);
+    justify-content: center;
+    text-align: center;
+    
+    
+}
+.pro{
+    margin-top: 16px;
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+}
+.gmail{
+    width: 600px;
+    height: auto;
+    padding: 18px 40px;
+    text-align: left;
+     border-right: none; /* remove the right border so it touches button */
+  border-radius: 8px 0 0 8px; /* rounded only on left side */
+    
+}
+.lasba{
+    width: 150px;
+    height: auto;
+    padding: 18px 40px;
+    background-color:rgba(0, 106, 80, 1) ;
+    font-weight: bold;
+    color: white;
+    border-radius: 8px;
+      border: 1px solid #000;
+  border-radius: 0 8px 8px 0;
+    
+   
+}
+.baba{
+    display: flex;
+    gap:0px ;
+    justify-content: center;
+    box-shadow: #6e6b6b;
+}
+
+.last{
+    padding: 50px 160px;
+    text-align: center;
+    justify-content: center;
+}
+hr{
+    width: 1122px;
+    height: 0px;
+}
+.soci{
+    margin-top: 32px;
+    display: flex;
+    flex-direction: row;
+    gap: 23px;
+    justify-content: center;
+    align-items: center;
 }
