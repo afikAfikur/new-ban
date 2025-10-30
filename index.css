@@ -289,8 +289,50 @@ tbody td:first-child {
     border: 1px solid #6e6b6b;
     box-shadow: 1px 1px 1px 1px #FFFFFF;
     border-radius: 24px;
-    padding: 48px;
+    display: flex;
+    flex-direction: row;
+    gap: 32px;
+    justify-content: center;
+   padding: 32px;
+    box-shadow: 1px 1px  #6e6b6b;
+    
 }
 .three_ne{
     margin-top: 32px;
+    display: flex;
+    flex-direction: column;
+    gap:24px ;
+}
+.sat{
+    width: 408px;
+    height: 306px;
+    border-radius: 24px;
+    margin-top: 50px;
+    box-shadow: 1px snow;
+}
+.alj{
+    width: 134px;
+    height: 40px;
+}
+
+.bllaunch{
+    width: 744px;
+    height: 210px;
+    display: flex;
+    flex-direction: column;
+    gap: auto;
+     text-align: left;
+    
+}
+.read_more{
+    width:139px;
+    height: 48px;
+    color: white;
+    background-color:rgba(0, 106, 80, 1) ;
+    padding: 13px ;
+    border-radius: 8px;
+    border: none;
+    
+   
+
 }
