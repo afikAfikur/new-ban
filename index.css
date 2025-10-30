@@ -283,7 +283,7 @@ tbody td:first-child {
     margin-top: 24px;
 }
 .news{
-    width: 1280px;
+    width: 1230px;
     height: 402px;
     background-color:rgba(255, 255, 255, 1);
     border: 1px solid #6e6b6b;
@@ -332,7 +332,53 @@ tbody td:first-child {
     padding: 13px ;
     border-radius: 8px;
     border: none;
+}
+.donate{
+    width: 1280px;
+    height: auto;
+    margin: 250px auto;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    gap: 0px;
+}
+.taka{
+    width: 240px;
+    height: auto;
+    padding: 10px;
+    text-align: center;
+    justify-content: center;
+    border: 1px solid rgba(14, 14, 14, 0.15);
+    border-radius: 16px;
+    box-shadow: inset;
+}
+.intaka{
+    display: flex;
+    justify-content: space-around;
     
-   
-
+}
+.two_hun{
+    background-color: rgba(198, 228, 214, 1);
+}
+.in{
+    width: 1032px;
+    height: 64px;
+    margin: 10px auto;
+    font-size: 20px;
+    font-weight: normal;
+    text-align: center;
+    justify-content: center;
+    display: block;
+}
+.pera{
+    display: flex;
+    flex-direction: column;
+    gap: 32px;
+}
+.done{
+    width: 151px;
+    height: 56px;
+    justify-content: center;
+    text-align: center;
+    margin: 5px auto;
 }
